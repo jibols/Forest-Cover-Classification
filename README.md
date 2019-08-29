@@ -4,7 +4,7 @@ Submission to the [Learn Together](https://www.kaggle.com/c/learn-together) Kagg
 
 The competition datasets comes from a study conducted in four wilderness areas within the beautiful Roosevelt National Forest of northern Colorado. These areas represent forests with very little human disturbances – the existing forest cover types there are more a result of ecological processes rather than forest management practices.
 
-Full description can be found [here] (https://www.fs.usda.gov).
+Full description can be found [here] (https://www.fs.usda.gov) .
 
 ## Getting Started
 
